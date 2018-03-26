@@ -1,0 +1,282 @@
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 134
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/hello
+<head></head><body><h1> hello </h1></body>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 43
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 133
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 133
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/Users/sangjin/CLionProjects/simplehttpserver/test/bye
+<h1> bye </h1>
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 15
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
+/
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+
+
